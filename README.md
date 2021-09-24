@@ -4,8 +4,8 @@ Based on the design patterns outlined by Luke Wroblewski's [article](https://www
 
 See https://www.lukew.com/ff/entry.asp?1514
 
-- [Mostly Fluid](https://maxxcrawford.github.io/multi-device-layout-patterns/mostly-fluid)
-- [Column Drop](/column-drop)
+- [Mostly Fluid](/multi-device-layout-patterns/mostly-fluid)
+- [Column Drop](/multi-device-layout-patterns/column-drop)
 - [Layout Shifter](/multi-device-layout-patterns/layout-shifter)
 
 ## Screenshots
